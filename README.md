@@ -150,8 +150,7 @@ To display your screenshot in the GitHub README, first upload the dashboard imag
 For example, if you upload it to a folder named images with the filename regional-sales-dashboard.png, add the following Markdown:
 ## Dashboard Preview
 
-![Regional Sales Analysis Dashboard](images/regional-sales-dashboard.png)
-
+https://github.com/touseef2005-data/-REGIONAL-SALES-ANALYSIS-2018-2021/blob/main/regional%20sales%20data%20Dashboard%20(2018-2021).png
 Important: Use the actual image filename and folder path from your GitHub repository. Otherwise, the image may not display correctly.
 # 14. How to Explore the Project
 Follow these steps to explore the dashboard:
